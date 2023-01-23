@@ -1,5 +1,3 @@
-Most competitive programming resources (templates, libraries, etc.) are  
-poorly documented and impossible to understnad. This project aims to  
-change that.
+Competitive programming library. Hopefully legible and well documented.  
 
 
